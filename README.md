@@ -1,6 +1,6 @@
 # Serier
 Serier is yet another application to rename TV episode files using data from https://www.thetvdb.com.
-The main purpose is to rename from a generic name such as `tv.show.05.04.sbrubles.ddl.mkv` to `TV Show - S05E04 - Episote Name.mkv` where the episode title is obtained from The TVDB.
+The main purpose is to rename from a generic name such as `tv.show.05.04.sbrubles.ddl.mkv` to `TV Show - S05E04 - Episode Name.mkv` where the episode title is obtained from The TVDB.
 
 ### Yet another series renamer?
 Because all other file renamers I've found required too many steps to install or have configurations that are too complex or both. They mostly work great, yes, but I wanted to make something simpler yet powerful.
