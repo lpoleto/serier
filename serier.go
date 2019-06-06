@@ -9,8 +9,9 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
-	"serier/episodefile"
-	"serier/seriesdb"
+
+	"github.com/lpoleto/serier/episodefile"
+	"github.com/lpoleto/serier/seriesdb"
 )
 
 const finalFilename = "%s - S%02dE%02d - %s%s"

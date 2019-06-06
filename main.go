@@ -8,7 +8,8 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	"serier/episodefile"
+
+	"github.com/lpoleto/serier/episodefile"
 )
 
 // VERSION holds the current version.
