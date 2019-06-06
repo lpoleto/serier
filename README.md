@@ -1,5 +1,7 @@
 # Serier
+
 [![Build Status](https://travis-ci.com/lpoleto/serier.svg?branch=master)](https://travis-ci.com/lpoleto/serier)
+[![Go Report Card](https://goreportcard.com/badge/github.com/lpoleto/serier)](https://goreportcard.com/report/github.com/lpoleto/serier)
 
 Serier is yet another application to rename TV episode files using data from https://www.thetvdb.com.
 The main purpose is to rename from a generic name such as `tv.show.05.04.sbrubles.ddl.mkv` to `TV Show - S05E04 - Episode Name.mkv` where the episode title is obtained from The TVDB.
