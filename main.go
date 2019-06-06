@@ -50,7 +50,7 @@ func initArgs() *Options {
 }
 
 func printVersion() {
-	fmt.Printf("Serier v%s\n", VERSION)
+	fmt.Printf("Serier version %s\n", VERSION)
 }
 
 func main() {
