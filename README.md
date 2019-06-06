@@ -6,7 +6,7 @@ The main purpose is to rename from a generic name such as `tv.show.05.04.sbruble
 Because all other file renamers I've found required too many steps to install or have configurations that are too complex or both. They mostly work great, yes, but I wanted to make something simpler yet powerful.
 
 ## Installing
-To install Serier you only need to download the executable file specific to your system (Windows, macOS, or Linux) and copy to whatever directory you want.
+To install Serier you only need to [download](https://github.com/lpoleto/serier/releases) the executable file specific to your system (Windows, macOS, or Linux) and copy to whatever directory you want.
 To make it easier to run, though, you might want to copy it to a directory already in your PATH.
 
 ## Basic usage
